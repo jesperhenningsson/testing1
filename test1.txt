@@ -1,12 +1,14 @@
 
-Hello world
+Hello world!
 
-H again
+Hi again
 
 One more row
 
 bash changed here...
 
 och en gånt till!
+
+två
 
 see ya
